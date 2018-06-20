@@ -1,2 +1,3 @@
 # CS-Study
-Computer-Science Study
+## Repository for personal study
+
